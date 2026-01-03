@@ -6,9 +6,9 @@ I am a Software Engineering Master's student at **IMT Nord Europe** with 3 years
 
 🚀 **Currently seeking a 3-month international internship starting Mid-June 2026.**
 
-
 ### Reach me
 
+* 🌍 **Resume:** [resume](https://www.antoinehazebrouck.com/ANTOINE_HAZEBROUCK_EN.pdf)
 * 🌍 **Portfolio:** [antoinehazebrouck.com](https://antoinehazebrouck.com)
 * 💼 **LinkedIn:** [in/antoinehazebrouck](https://linkedin.com/in/antoinehazebrouck)
 * 📧 **Email:** antoine.hazebrouck5@gmail.com
